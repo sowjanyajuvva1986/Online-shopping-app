@@ -56,7 +56,7 @@ const products = [
    }
 
    function renderProductDetails(){
-products.forEach(function(product){
+   products.forEach(function(product){
    /*<div class="product-row">
        <p>Laptop - Rs.50000  </p>
           <button> Add to cart</button>
